@@ -18,6 +18,9 @@ function main() {
 		let inputNode;
 		let textNode;
 
+		if (cont == "")
+			return; 
+
 		div = document.createElement("DIV");
 		span = document.createElement("SPAN");
 		text = document.createTextNode(cont);
