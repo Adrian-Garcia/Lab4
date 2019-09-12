@@ -85,3 +85,12 @@ fieldset{
   background-color:#2994DA;
   text-align: center;
 }
+
+.listOfTodos {
+  font-family: Helvetica;
+  font-size: 150%;
+}
+
+.checkboxText {
+  margin-left: 3%;
+}
